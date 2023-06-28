@@ -3531,11 +3531,11 @@
 				}, e
 			}
 			var nD = (0, H.vU)({
-					helpAndFaq: {
-						id: "navigation.helpAndFaq",
-						defaultMessage: "Pandora On Github",
-						description: "GitHub source menu item"
-					},
+					// helpAndFaq: {
+					// 	id: "navigation.helpAndFaq",
+					// 	defaultMessage: "Pandora On Github",
+					// 	description: "GitHub source menu item"
+					// },
 					confirmClearConversations: {
 						id: "navigation.confirmClearConversations",
 						defaultMessage: "Confirm clear conversations",
@@ -3546,11 +3546,11 @@
 						defaultMessage: "Clear conversations",
 						description: "Clear conversations menu item"
 					},
-					myPlan: {
-						id: "navigation.myPlan",
-						defaultMessage: "My plan",
-						description: "My plan menu item"
-					},
+					// myPlan: {
+					// 	id: "navigation.myPlan",
+					// 	defaultMessage: "My plan",
+					// 	description: "My plan menu item"
+					// },
 					myProfile: {
 						id: "navigation.myProfile",
 						defaultMessage: "My profile",
@@ -10255,8 +10255,8 @@
 					t = (0, k.nR)();
 				return (0, v.jsxs)(i0, {
 					children: [(0, v.jsxs)(i1, {
-						children: ["Unofficial ChatGPT", t && (0, v.jsx)(rQ, {
-							children: "Plus"
+						children: ["Moss See", t && (0, v.jsx)(rQ, {
+							children: "VIP"
 						})]
 					}), (0, v.jsxs)(i2, {
 						children: [(0, v.jsxs)(i3, {
@@ -10428,9 +10428,9 @@
 							availableModels: F,
 							modelBackend: O
 						}), (0, v.jsxs)(od, {
-							children: ["Unofficial ChatGPT", A && (0, v.jsx)
+							children: ["Moss See", A && (0, v.jsx)
 								(rQ, {
-									children: "Plus"
+									children: "VIP"
 								})
 							]
 						})]
